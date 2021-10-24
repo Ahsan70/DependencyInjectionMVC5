@@ -1,3 +1,3 @@
 # DependencyInjection MVC5
 
-I'm using in this WebApp DI with Ninject and Autofac in easy way
+I'm using in this WebApp DI with Ninject and Autofac.
