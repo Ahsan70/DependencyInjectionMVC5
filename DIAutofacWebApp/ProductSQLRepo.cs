@@ -7,10 +7,7 @@ namespace DIAutofacWebApp
 {
     public class ProductSQLRepo : IProductRepo
     {
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <returns></returns>
+       
         public bool AddProduct()
         {
             throw new NotImplementedException();
