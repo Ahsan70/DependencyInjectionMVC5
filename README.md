@@ -1,2 +1,3 @@
 # DependencyInjection MVC5
- Ninject and Autofac
+
+I'm using in this WebApp DI with Ninject and Autofac in easy way
