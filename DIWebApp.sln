@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIWebApp", "DIWebApp\DIWebApp.csproj", "{4DAE9CB2-572C-4781-8BB9-2D89239D021F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIAutofacWebApp", "DIAutofacWebApp\DIAutofacWebApp.csproj", "{60E69D06-FC6E-4D46-8827-57C37B46B726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAE9CB2-572C-4781-8BB9-2D89239D021F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAE9CB2-572C-4781-8BB9-2D89239D021F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAE9CB2-572C-4781-8BB9-2D89239D021F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAE9CB2-572C-4781-8BB9-2D89239D021F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E69D06-FC6E-4D46-8827-57C37B46B726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E69D06-FC6E-4D46-8827-57C37B46B726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E69D06-FC6E-4D46-8827-57C37B46B726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E69D06-FC6E-4D46-8827-57C37B46B726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79243D2-4640-4456-B3F9-83052DC47547}
+	EndGlobalSection
+EndGlobal
